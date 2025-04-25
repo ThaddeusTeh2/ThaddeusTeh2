@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a simple ML model to predict artisanal mechanical keyboards<br>🌱 I’m currently learning Full Stack Software Engineering @ Forward College<br>💬 Ask me about Tech, Horology, Motorsport<br>⚡ Fun fact i'm an INTP/INTJ 
+🔭 I’m currently working on a simple ML model to predict pricing for artisanal mechanical keyboards<br>🌱 I’m currently learning Full Stack Software Engineering @ Forward College<br>💬 Ask me about Tech, Horology, Motorsport<br>⚡ Fun fact i'm an INTP/INTJ 
 
 
 # 💻 Tech Stack:
