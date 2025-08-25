@@ -54,7 +54,7 @@
 ### Design & Productivity
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)  
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)  
-![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat&logo=opensea&logoColor=white)  
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThaddeusTeh2&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThaddeusTeh2&theme=neon&hide_border=false)<br/>
