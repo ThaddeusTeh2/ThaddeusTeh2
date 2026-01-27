@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on building Kotlin skill to make android apps<br>🌱 I’m currently learning Full Stack Software Engineering @ Forward College<br>💬 Ask me about Tech, Horology, Motorsport<br>⚡ Fun fact i'm an INTP/INTJ
+🔭 I’m currently working on building Dart skills to make android apps<br>🌱 I’m currently learning Full Stack Software Engineering @ Forward College<br>💬 Ask me about Tech, Horology, Motorsport<br>⚡ Fun fact i'm an INTP/INTJ
 
 
 # 💻 Tech Stack:
