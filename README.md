@@ -12,5 +12,3 @@ Currently working on internship @ Consurv Technic Sdn Bhd<br><br> FullStack SWE 
 ![](https://nirzak-streak-stats.vercel.app/?user=ThaddeusTeh2&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaddeusTeh2&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThaddeusTeh2&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
