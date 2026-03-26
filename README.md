@@ -14,24 +14,22 @@ FullStack SWE & Data Science/Analyst Student @ Forward College <br><br> Currentl
 
 ## 📈 Metrics
 
-### Overview
-![Base](./metrics.base.svg)
+<table>
+  <tr>
+    <td><img src="./metrics.base.svg"/></td>
+    <td><img src="./metrics.calendar.svg"/></td>
+    <td><img src="./metrics.languages.svg"/></td>
+  </tr>
+  <tr>
+    <td><img src="./metrics.code.svg"/></td>
+    <td><img src="./metrics.repos.svg"/></td>
+    <td><img src="./metrics.followup.svg"/></td>
+  </tr>
+  <tr>
+    <td><img src="./metrics.people.svg"/></td>
+  </tr>
+</table>
 
-### Commit Calendar
-![Calendar](./metrics.calendar.svg)
+<br/>
 
-### Languages
-![Languages](./metrics.languages.svg)
-
-### Code Stats
-![Code](./metrics.code.svg)
-
-### Repositories
-![Repos](./metrics.repos.svg)
-
-### Issues & PRs
-![Followup](./metrics.followup.svg)
-
-### People
-![People](./metrics.people.svg)
 
