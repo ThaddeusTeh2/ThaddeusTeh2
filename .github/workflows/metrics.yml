@@ -12,30 +12,72 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate metrics
+      # BASE (header + general activity)
+      - name: Base
         uses: lowlighter/metrics@latest
         with:
+          filename: metrics.base.svg
           user: ThaddeusTeh2
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, metadata
 
-          base: header, activity, community, repositories, metadata
-
+      # COMMIT CALENDAR (isometric full year)
+      - name: Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.calendar.svg
+          user: ThaddeusTeh2
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
+      # LANGUAGES
+      - name: Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.languages.svg
+          user: ThaddeusTeh2
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_indepth: yes
 
+      # CODE STATS (lines + habits)
+      - name: Code stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.code.svg
+          user: ThaddeusTeh2
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_lines: yes
-          plugin_licenses: yes
-
           plugin_habits: yes
           plugin_habits_days: 14
 
-          plugin_activity: yes
+      # REPOSITORIES + LICENSES
+      - name: Repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.repos.svg
+          user: ThaddeusTeh2
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_repositories: yes
+          plugin_licenses: yes
+
+      # FOLLOW-UP (issues / PRs)
+      - name: Follow-up
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.followup.svg
+          user: ThaddeusTeh2
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_followup: yes
 
+      # PEOPLE
+      - name: People
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.people.svg
+          user: ThaddeusTeh2
+          token: ${{ secrets.METRICS_TOKEN }}
           plugin_people: yes
           plugin_people_limit: 24
