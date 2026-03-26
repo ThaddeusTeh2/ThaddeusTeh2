@@ -1,5 +1,5 @@
 # 💫 About Me:
-horizontally reclined, not mentally inclined<br><br>-> horology.<br>-> tech.<br>-> motorsport.<br>-> fitness.<br>-> fashion.<br><br>https://arc.net/gift/9a2bef54 <3<br><br>Currently working on internship @ Consurv Technic Sdn Bhd
+Currently working on internship @ Consurv Technic Sdn Bhd<br><br> FullStack SWE & Data Science/Analyst Student @ Forward College <br><br>-> horology.<br>-> tech.<br>-> motorsport.<br>-> fitness.<br>-> fashion.<br><br>https://arc.net/gift/9a2bef54 <3<br><br>
 
 
 ## 🌐 Socials:
