@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on internship @ Consurv Technic Sdn Bhd<br><br> FullStack SWE & Data Science/Analyst Student @ Forward College <br><br>-> horology.<br>-> tech.<br>-> motorsport.<br>-> fitness.<br>-> fashion.<br><br>have a better life: https://arc.net/gift/9a2bef54 <3<br><br>
+FullStack SWE & Data Science/Analyst Student @ Forward College <br><br> Currently working on internship @ Consurv Technic Sdn Bhd<br><br> -> horology.<br>-> tech.<br>-> motorsport.<br>-> fitness.<br>-> fashion.<br><br>have a better life: https://arc.net/gift/9a2bef54 <3<br><br>
 
 
 ## 🌐 Socials:
@@ -13,5 +13,25 @@ Currently working on internship @ Consurv Technic Sdn Bhd<br><br> FullStack SWE 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaddeusTeh2&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📈 Metrics
-![Metrics](https://raw.githubusercontent.com/ThaddeusTeh2/ThaddeusTeh2/main/github-metrics.svg)
+
+### Overview
+![Base](./metrics.base.svg)
+
+### Commit Calendar
+![Calendar](./metrics.calendar.svg)
+
+### Languages
+![Languages](./metrics.languages.svg)
+
+### Code Stats
+![Code](./metrics.code.svg)
+
+### Repositories
+![Repos](./metrics.repos.svg)
+
+### Issues & PRs
+![Followup](./metrics.followup.svg)
+
+### People
+![People](./metrics.people.svg)
 
