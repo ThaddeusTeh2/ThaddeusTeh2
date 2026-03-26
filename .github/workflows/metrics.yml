@@ -1,0 +1,55 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          user: ThaddeusTeh2
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Core sections
+          base: header, activity, community, repositories, metadata
+
+          # Commit calendar (isometric full year)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Languages
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_indepth: yes
+
+          # Lines changed
+          plugin_lines: yes
+
+          # Licenses
+          plugin_licenses: yes
+
+          # Habits + activity
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_activity: yes
+
+          # Repos + contributions
+          plugin_repositories: yes
+
+          # PR / issue follow-up
+          plugin_followup: yes
+
+          # People
+          plugin_people: yes
+          plugin_people_limit: 24
+
+          # Recent activity
+          plugin_activity: yes
